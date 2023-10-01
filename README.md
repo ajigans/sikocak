@@ -1,1 +1,1 @@
-# sikocak
+pip install requests
